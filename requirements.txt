@@ -1,0 +1,6 @@
+gymnasium
+pygame
+numpy
+imageio
+imageio-ffmpeg
+moviepy
